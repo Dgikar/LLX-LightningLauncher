@@ -1,6 +1,8 @@
 MIT License
 
-Copyright (c) 2022 Pierre Hébert
+Copyright (c) 2022-2026 Pierre Hebert
+Copyright (c) 2023-2026 TrianguloY
+Copyright (c) 2026 Dgikar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
